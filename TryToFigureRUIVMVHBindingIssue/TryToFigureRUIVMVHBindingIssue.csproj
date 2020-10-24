@@ -41,14 +41,14 @@
     <Reference Include="DynamicData, Version=6.17.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\DynamicData.6.17.14\lib\net461\DynamicData.dll</HintPath>
     </Reference>
-    <Reference Include="ReactiveUI, Version=11.5.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\ReactiveUI.11.5.35\lib\net461\ReactiveUI.dll</HintPath>
+    <Reference Include="ReactiveUI, Version=12.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ReactiveUI.12.1.1\lib\net461\ReactiveUI.dll</HintPath>
     </Reference>
     <Reference Include="ReactiveUI.Fody.Helpers, Version=11.5.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\ReactiveUI.Fody.11.5.35\lib\net461\ReactiveUI.Fody.Helpers.dll</HintPath>
     </Reference>
-    <Reference Include="ReactiveUI.WPF, Version=11.5.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\ReactiveUI.WPF.11.5.35\lib\net472\ReactiveUI.WPF.dll</HintPath>
+    <Reference Include="ReactiveUI.Wpf, Version=12.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ReactiveUI.WPF.12.1.1\lib\net472\ReactiveUI.Wpf.dll</HintPath>
     </Reference>
     <Reference Include="Splat, Version=9.6.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\Splat.9.6.1\lib\net461\Splat.dll</HintPath>
