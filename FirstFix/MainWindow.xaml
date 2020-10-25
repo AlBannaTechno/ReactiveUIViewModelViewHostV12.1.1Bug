@@ -13,6 +13,8 @@
             Background="AliceBlue"
             Width="200"
             Height="50"
+            HorizontalContentAlignment="Stretch"
+            VerticalContentAlignment="Stretch"
 	        />
     </StackPanel>
 </reactiveUi:ReactiveWindow>
