@@ -12,10 +12,10 @@ namespace FirstFix
         {
             ViewModel = new MainWindowViewModel();
             InitializeComponent();
+            this.Bind(ViewModel, vm => vm.SubLayoutViewModel, v => v.SubLayoutViewModelViewHost.ViewModel);
+
             this.WhenActivated(disposable =>
             {
-                this.Bind(ViewModel, vm => vm.SubLayoutViewModel, v => v.SubLayoutViewModelViewHost.ViewModel)
-                    .DisposeWith(disposable);
             });
         }
     }
